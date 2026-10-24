@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 80" width="380" height="80">
+  <defs>
+    <linearGradient id="btnBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9d"/>
+      <stop offset="100%" stop-color="#ff6b35"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="80" rx="14" fill="#1a1a2e" stroke="url(#btnBorder)" stroke-width="2"/>
+  <rect x="2" y="2" width="376" height="76" rx="12" fill="#00ff9d" fill-opacity="0.05"/>
+  <rect x="16" y="16" width="48" height="48" rx="12" fill="#00ff9d"/>
+  <g transform="translate(-4, -4)"><path d="M 32 32 L 24 40 L 32 48 M 48 32 L 56 40 L 48 48" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/></g>
+  <text x="84" y="34" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="1">ENSHROUDED TOOL FIX</text>
+  <text x="84" y="58" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="400">DOWNLOAD BUILD</text>
+</svg>
